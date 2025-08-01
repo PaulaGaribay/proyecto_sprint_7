@@ -1,2 +1,2 @@
-# proyecto_sprint-_7
+# proyecto_sprint_7
 Código para proyecto sprint 7
