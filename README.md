@@ -15,3 +15,6 @@ Esta es una aplicación web desarrollada con Streamlit que permite analizar dato
 2. Asegúrate de tener instalado Python y los paquetes necesarios.
 3. Instala las dependencias
 4. Puedes ejecutar la aplicación localmente con streamlit run app.py
+
+## Link Render
+https://proyecto-sprint-7-trr4.onrender.com
